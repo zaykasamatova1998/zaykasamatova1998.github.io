@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>About me</title>
+</head>
+<body>
+
+<h>Samatova Ziyoda</h></br>
+<p>ID:U1710289</p>
+<p>SOCIE-17-5</p>
+<p>email adress: zaykasamatova@mail.ru</p>
+<img src="april_2017-09-02-13-31-54-640.jpg"style="width:300px;height:400px;"></i>
+<p>I'm interested in programming, I like drawing in my spare time, I like to dance, I'm interested in foreign literature.</p>
+<p>Date of birth: 08.03.1998</p>
+<link rel="stylesheet" type="text/css" href="style1.css">
+
+</body>
+</html>
